@@ -40,6 +40,11 @@ Contract Overview:
 
 ![Screen Shot 2021-03-02 at 10 31 20 AM](https://user-images.githubusercontent.com/70069238/109671845-6fe0e600-7b42-11eb-8300-6714860d288b.png)
 
+Functionality Gif:
+
+https://user-images.githubusercontent.com/70069238/109672026-9bfc6700-7b42-11eb-819b-81a06cdc079e.mp4
+
+
 
 
 
