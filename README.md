@@ -36,7 +36,9 @@ Contract 1:
 
 ### Appendix A
 
-Contract Overview: ![Screen Shot 2021-03-02 at 10 02 33 AM](https://user-images.githubusercontent.com/70069238/109670860-89cdf900-7b41-11eb-9713-a5b2a2dc5cc3.png)
+Contract Overview:
+
+![Screen Shot 2021-03-02 at 10 31 20 AM](https://user-images.githubusercontent.com/70069238/109671845-6fe0e600-7b42-11eb-8300-6714860d288b.png)
 
 
 
