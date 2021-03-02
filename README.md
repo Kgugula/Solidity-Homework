@@ -30,7 +30,7 @@ Contract 1:
     Transaction hash (deployment): 0x2ebd9b9a155a215eb33c0e93a4ab441194cd71e0f0c3909e3f702c53be5f3eef
 
     Transaction hash (depositing funds):
-    0x22df237469661210c5c5cd53cf0e3f9ea6bc34f6bceb9d0295fb8ac9ee7704cb
+    0x8333f66a8762a8bf45d91ff927bbaa02a3df8116039c54a098417fa3ad35f74b
 
 ## Appendix
 
@@ -43,6 +43,11 @@ Contract Overview:
 Functionality Gif:
 
 https://user-images.githubusercontent.com/70069238/109672026-9bfc6700-7b42-11eb-819b-81a06cdc079e.mp4
+
+Transaction Hash (Depositing):
+
+![Screen Shot 2021-03-02 at 10 31 20 AM](https://user-images.githubusercontent.com/70069238/109672406-feedfe00-7b42-11eb-9cce-4bd03f7ffc6f.png)
+
 
 
 
