@@ -33,10 +33,6 @@ In the contract a constructor function is utilized in much the same way as the p
 
 ## Testnet Addresses
 
-Employee 1: 0xd11B6223050D958C88FFdD6cB93948B4580CA43c
-Employee 2: 0x44E4866576c761eF1dF82dF13cCFAA9854B2e586
-Employee 3: 0x44E4866576c761eF1dF82dF13cCFAA9854B2e586
-
 Contract 1:
 
     Transaction hash (deployment): 0x2ebd9b9a155a215eb33c0e93a4ab441194cd71e0f0c3909e3f702c53be5f3eef
@@ -83,7 +79,7 @@ Contract Overview:
 
 Functionality Gif (Fastforward function):
 
-** Fastforward was called multiple times prior
+** Fast forward was called multiple times prior
 
 https://user-images.githubusercontent.com/70069238/109683539-7032ae80-7b4d-11eb-8428-088913391263.mp4
 
