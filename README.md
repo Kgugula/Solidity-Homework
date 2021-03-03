@@ -34,7 +34,7 @@ In the contract a constructor function is utilized in much the same way as the p
 ## Testnet Addresses
 
 Network - Kovan Testnet
-Etherscan address - https://kovan.etherscan.io/
+/n Etherscan address - https://kovan.etherscan.io/
 
 Contract 1:
 
